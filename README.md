@@ -18,11 +18,12 @@ This is a simple, responsive portfolio website that showcases my background, ski
 - JavaScript / jQuery
 
 ## Project Structure
+```
 site-dh-portfolio/
 │
-├── index.html          (home)
-├── resume.html         (cv)
-├── contact.html        (contact)
+├── index.html
+├── resume.html
+├── contact.html
 │
 └── assets/
     ├── css/
@@ -37,6 +38,7 @@ site-dh-portfolio/
     │
     └── docs/
         └── DarioHoyte-Curriculum_vitae_resume.pdf
+```
 
 ## How to Run
 Download or clone the repository, then open `index.html` in your browser.
